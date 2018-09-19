@@ -1,0 +1,11 @@
+{
+  "name": "emgordon154-website",
+  "version": "0.0.1",
+  "description": "Emily Gordon's profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Emily Gordon",
+  "license": "ISC"
+}
