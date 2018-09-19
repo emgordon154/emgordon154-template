@@ -1,6 +1,6 @@
 {
   "name": "emgordon154-website",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Emily Gordon's profile",
   "main": "index.js",
   "scripts": {
