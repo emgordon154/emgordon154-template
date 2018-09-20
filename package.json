@@ -1,7 +1,8 @@
 {
-  "name": "emgordon154-website",
+  "name": "emilys-template",
   "version": "0.1.0",
-  "description": "Emily Gordon's profile",
+  "description": 
+    "Emily Gordon's React-Redux/Webpack template",
   "main": "index.js",
   "scripts": {
     "test": "test",
