@@ -13,8 +13,11 @@ const Root = ({store}) => (
   </Provider>
 )
 
+// why is this throwing an error
+// and telling me PropTypes.object is undefined now?
+
 Root.propTypes = {
-  store: PropTypes.objects.isRequired
+  store: PropTypes.object.isRequired
 }
 
 export default Root
